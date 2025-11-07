@@ -1,0 +1,35 @@
+Dear Mark Smith,
+
+We regret to inform you that the requested ticket type 'Spooky men' is currently unavailable.
+Please consider selecting a different ticket type or checking back later.
+
+Sincerely,
+Ticket Office
+
+----------------------------------------
+Dear Ted Smith,
+
+We regret to inform you that the requested ticket type 'Fascinating Aida' is currently unavailable.
+Please consider selecting a different ticket type or checking back later.
+
+Sincerely,
+Ticket Office
+
+----------------------------------------
+Dear Ted Smith,
+
+We regret to inform you that the requested ticket type 'Spooky Men' is currently unavailable.
+Please consider selecting a different ticket type or checking back later.
+
+Sincerely,
+Ticket Office
+
+----------------------------------------
+Dear Member
+
+We are sorry to inform you that the ticket 'Spooky men' is currently not enough. Please try again or select other ticket type. Thank you for your understanding. 
+
+Kind regards,
+Ticket Office
+
+----------------------------------------

@@ -1,0 +1,270 @@
+/Users/wenjiazheng/Library/Java/JavaVirtualMachines/ms-21.0.8/Contents/Home/bin/java --enable-preview -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57279 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/wenjiazheng/Desktop/CSC8023 Assessed Coursework/NEAT_TicketSystem 10.Nov/out/production/untitled MainProgram
+Enter your query (f/t/m/b/c): t
+___ Tickets List ___
+Fascinating Aida / $15.50, 5 available.
+Professor Elemental / $8.99, 11 available.
+Spooky Men / $10.99, 2 available.
+The Ukulele Orchestra of Great Britain / $25.30, 7 available.
+Weird Al / $28.99, 4 available.
+
+Enter your query (f/t/m/b/c): m
+___ Members List___
+Mark Jones bought 0 types of tickets. Total price: $0.00
+Michael Jones bought 0 types of tickets. Total price: $0.00
+Mark Smith bought 0 types of tickets. Total price: $0.00
+Ted Smith bought 0 types of tickets. Total price: $0.00
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Mark Smith
+Enter ticket name: 
+Spooky men
+Enter quantity: 
+1
+Mark Smith bought 1 ticket for Spooky Men
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Mark Smith
+Enter ticket name: 
+Fascinating Aida
+Enter quantity: 
+1
+Mark Smith bought 1 ticket for Fascinating Aida
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Mark Smith
+Enter ticket name: 
+Professor Elemental
+Enter quantity: 
+1
+Mark Smith bought 1 ticket for Professor Elemental
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Mark Smith
+Enter ticket name: 
+Weird Al
+Enter quantity: 
+1
+You have reached the maximum amount(3) of tickets.
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Michael Jones
+Enter ticket name: 
+Spooky Men
+Enter quantity: 
+2
+Not enough tickets available!
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Michael Jones
+Enter ticket name: 
+Fascinating Aida
+Enter quantity: 
+2
+Michael Jones bought 2 ticket for Fascinating Aida
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Michael Jones
+Enter ticket name: 
+Professor Elemental
+Enter quantity: 
+7
+Michael Jones bought 7 ticket for Professor Elemental
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Mark Jones
+Enter ticket name: 
+The Ukulele Orchestra of Great Britain
+Enter quantity: 
+5
+Mark Jones bought 5 ticket for The Ukulele Orchestra of Great Britain
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Ted Smith
+Enter ticket name: 
+Spooky Men
+Enter quantity: 
+5
+Not enough tickets available!
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Ted Smith
+Enter ticket name: 
+Professor Elemental
+Enter quantity: 
+10
+Not enough tickets available!
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Ted Smith
+Enter ticket name: 
+Weird Al
+Enter quantity: 
+2
+Ted Smith bought 2 ticket for Weird Al
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Ted Smith
+Enter ticket name: 
+Fascinating Aida
+Enter quantity: 
+5
+Not enough tickets available!
+
+Enter your query (f/t/m/b/c): t
+___ Tickets List ___
+Fascinating Aida / $15.50, 2 available.
+Professor Elemental / $8.99, 3 available.
+Spooky Men / $10.99, 1 available.
+The Ukulele Orchestra of Great Britain / $25.30, 2 available.
+Weird Al / $28.99, 2 available.
+
+Enter your query (f/t/m/b/c): m
+___ Members List___
+Mark Jones bought 1 types of tickets. Total price: $126.50
+ The Ukulele Orchestra of Great Britain: 5tickets / $126.50
+Michael Jones bought 2 types of tickets. Total price: $93.93
+ Fascinating Aida: 2tickets / $31.00
+ Professor Elemental: 7tickets / $62.93
+Mark Smith bought 3 types of tickets. Total price: $35.48
+ Spooky Men: 1tickets / $10.99
+ Fascinating Aida: 1tickets / $15.50
+ Professor Elemental: 1tickets / $8.99
+Ted Smith bought 1 types of tickets. Total price: $57.98
+ Weird Al: 2tickets / $57.98
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Mark Jones
+Enter ticket name: 
+Fascinating Aida 
+Ticket not found!
+
+Enter your query (f/t/m/b/c): 2
+Invalid input!
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Mark Jones
+Enter ticket name: 
+Fascinating Aida
+Enter quantity: 
+2
+Mark Jones bought 2 ticket for Fascinating Aida
+
+Enter your query (f/t/m/b/c): b
+Enter member's name: 
+Ted Smith
+Enter ticket name: 
+The Ukulele Orchestra of Great Britain
+Enter quantity: 
+2
+Ted Smith bought 2 ticket for The Ukulele Orchestra of Great Britain
+
+Enter your query (f/t/m/b/c): t
+___ Tickets List ___
+Fascinating Aida / $15.50, 0 available.
+Professor Elemental / $8.99, 3 available.
+Spooky Men / $10.99, 1 available.
+The Ukulele Orchestra of Great Britain / $25.30, 0 available.
+Weird Al / $28.99, 2 available.
+
+Enter your query (f/t/m/b/c): m
+___ Members List___
+Mark Jones bought 2 types of tickets. Total price: $157.50
+ The Ukulele Orchestra of Great Britain: 5tickets / $126.50
+ Fascinating Aida: 2tickets / $31.00
+Michael Jones bought 2 types of tickets. Total price: $93.93
+ Fascinating Aida: 2tickets / $31.00
+ Professor Elemental: 7tickets / $62.93
+Mark Smith bought 3 types of tickets. Total price: $35.48
+ Spooky Men: 1tickets / $10.99
+ Fascinating Aida: 1tickets / $15.50
+ Professor Elemental: 1tickets / $8.99
+Ted Smith bought 2 types of tickets. Total price: $108.58
+ Weird Al: 2tickets / $57.98
+ The Ukulele Orchestra of Great Britain: 2tickets / $50.60
+
+Enter your query (f/t/m/b/c): c
+Enter member's name: 
+Ted Smith
+Enter ticket name: 
+Weird Al
+Enter quantity: 
+2
+Ted Smith cancelled 2 ticket for Weird Al
+
+Enter your query (f/t/m/b/c): t
+___ Tickets List ___
+Fascinating Aida / $15.50, 0 available.
+Professor Elemental / $8.99, 3 available.
+Spooky Men / $10.99, 1 available.
+The Ukulele Orchestra of Great Britain / $25.30, 0 available.
+Weird Al / $28.99, 4 available.
+
+Enter your query (f/t/m/b/c): c
+Enter member's name: 
+Mark Smith
+Enter ticket name: 
+Weird Al
+Enter quantity: 
+2
+Member does not purchase this ticket!
+
+Enter your query (f/t/m/b/c): c
+Enter member's name: 
+Michael Jones
+Enter ticket name: 
+Professor Elemental
+Enter quantity: 
+8
+You can not cancel more quantity than purchase!
+
+Enter your query (f/t/m/b/c): c
+Enter member's name: 
+Michael Jones
+Enter ticket name: 
+The Ukulele Orchestra of Great Britain
+Enter quantity: 
+2
+Member does not purchase this ticket!
+
+Enter your query (f/t/m/b/c): t
+___ Tickets List ___
+Fascinating Aida / $15.50, 0 available.
+Professor Elemental / $8.99, 3 available.
+Spooky Men / $10.99, 1 available.
+The Ukulele Orchestra of Great Britain / $25.30, 0 available.
+Weird Al / $28.99, 4 available.
+
+Enter your query (f/t/m/b/c): m
+___ Members List___
+Mark Jones bought 2 types of tickets. Total price: $157.50
+ The Ukulele Orchestra of Great Britain: 5tickets / $126.50
+ Fascinating Aida: 2tickets / $31.00
+Michael Jones bought 2 types of tickets. Total price: $93.93
+ Fascinating Aida: 2tickets / $31.00
+ Professor Elemental: 7tickets / $62.93
+Mark Smith bought 3 types of tickets. Total price: $35.48
+ Spooky Men: 1tickets / $10.99
+ Fascinating Aida: 1tickets / $15.50
+ Professor Elemental: 1tickets / $8.99
+Ted Smith bought 2 types of tickets. Total price: $50.60
+ Weird Al: 0tickets / $0.00
+ The Ukulele Orchestra of Great Britain: 2tickets / $50.60
+
+Enter your query (f/t/m/b/c): f
+
+
+Process finished with exit code 0
